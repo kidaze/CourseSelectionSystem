@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="PageAccessControlMethod" value="dontUseAccessList" />
+	<infoitem key="MM_Session_Count" value="4" />
+	<infoitem key="MM_Form_Count" value="0" />
+	<infoitem key="MM_Session1" value="STU_Username" />
+	<infoitem key="MM_Session2" value="STU_Userpassword" />
+	<infoitem key="MM_Session3" value="TEA_Username" />
+	<infoitem key="MM_Session4" value="TEA_Userpassword" />
+</info>
